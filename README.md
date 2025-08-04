@@ -1,4 +1,4 @@
-# Rural Population Dashboard: East Africa (2021–2024)
+# Rural Population: East Africa (2021–2024)
 
 This repository presents a comprehensive analysis of rural population trends in East Africa, with a special focus on Rwanda from 2021 to 2024. The project combines data preprocessing in Python with data visualization using Power BI.
 
