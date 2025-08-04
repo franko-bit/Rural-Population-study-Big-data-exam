@@ -26,10 +26,6 @@ This repository contains the full project on rural population trends in East Afr
 
 - **Power BI** – Interactive dashboard creation
 - **Python** – Data cleaning, summary statistics
-- **Pandas, Matplotlib** – Data manipulation & simple plots
 - **Jupyter Notebook** – Processing logic
 
----
-
-## 🗂️ Project Structure
 
