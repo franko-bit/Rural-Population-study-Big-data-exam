@@ -37,7 +37,6 @@ You can download or view the Power BI dashboard (.pbix) via the link below:
 
 ---
 
-## 💻 Python Code Example
 
 import pandas as pd
 
