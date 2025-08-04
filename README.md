@@ -75,3 +75,12 @@ df_cleaned.to_csv('cleaned_rural_population_table.csv', index=False)
 
 # Preview
 print(df_cleaned.head(10))
+
+# project strcture
+C:\Users\DELL\Downloads\API_SP.RUR.TOTL.ZS_DS2_en_csv_v2_23429\
+│
+├── API_SP.RUR.TOTL.ZS_DS2_en_csv_v2_23429.csv        # Raw dataset from World Bank
+├── cleaned_rural_population_table.csv                # Cleaned and transformed dataset
+├── Untitled1.ipynb                                   # Jupyter notebook for preprocessing
+├── .ipynb_checkpoints/                               # Auto-generated Jupyter checkpoints
+└── PowerBI_Dashboard.pbix                            # Power BI dashboard (external link below)
