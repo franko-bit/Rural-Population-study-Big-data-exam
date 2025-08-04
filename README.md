@@ -13,6 +13,12 @@ This repository contains the full project on rural population trends in East Afr
 
 ---
 
+## 📥 Power BI Dashboard File
+
+- You can download or view the Power BI dashboard (.pbix) from the link below:
+  [Download Power BI File](https://drive.google.com/file/d/1QMbc7fzHwkvOPH1VHQ87Asppb_5dOMJ6/view?usp=drive_link)
+
+
 ## 📊 Key Insights
 
 - Rwanda’s rural population slightly decreased from 82.43% in 2021 to 81.92% in 2024.
@@ -27,5 +33,7 @@ This repository contains the full project on rural population trends in East Afr
 - **Power BI** – Interactive dashboard creation
 - **Python** – Data cleaning, summary statistics
 - **Jupyter Notebook** – Processing logic
+
+  
 
 
