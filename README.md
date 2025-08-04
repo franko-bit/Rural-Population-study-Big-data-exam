@@ -1,10 +1,10 @@
-# 🌍 Rural Population Dashboard: East Africa (2021–2024)
+# Rural Population Dashboard: East Africa (2021–2024)
 
 This repository presents a comprehensive analysis of rural population trends in East Africa, with a special focus on Rwanda from 2021 to 2024. The project combines data preprocessing in Python with data visualization using Power BI.
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Analyze the rural population index in Rwanda from 2021 to 2024.  
 - Compare rural population distribution across East African countries.  
@@ -13,14 +13,14 @@ This repository presents a comprehensive analysis of rural population trends in 
 
 ---
 
-## 📥 Power BI Dashboard
+## Power BI Dashboard
 
 You can download or view the Power BI dashboard (.pbix) via the link below:  
-👉 [Download Power BI File](https://drive.google.com/file/d/1QMbc7fzHwkvOPH1VHQ87Asppb_5dOMJ6/view?usp=drive_link)
+ [Download Power BI File](https://drive.google.com/file/d/1QMbc7fzHwkvOPH1VHQ87Asppb_5dOMJ6/view?usp=drive_link)
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Rwanda’s rural population slightly decreased from **82.43% in 2021** to **81.92% in 2024**.  
 - Most countries were classified as *High Rural* before the year 2000.  
@@ -29,7 +29,7 @@ You can download or view the Power BI dashboard (.pbix) via the link below:
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Power BI** – For interactive dashboards and visual analytics  
 - **Python** – For data cleaning and computation  
